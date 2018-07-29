@@ -33,4 +33,4 @@ python main.py
 
 # 效果图
 
-![图片]()
+![图片](./qq.png)
