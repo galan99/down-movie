@@ -21,6 +21,12 @@ python3
 <br/>
 测试过程中IP被封锁，不得不使用了动态代理，问题驱动是最好的实践。
 
-# 运行
+# 安装依赖与运行
+
+```code
+pip install requests
+pip install lxml
 
 python main.py
+
+```
